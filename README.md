@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# code size
+## GitHub
+https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning
+
 # 📚 Stack
 
 ## :thought_balloon: Languages 
@@ -46,4 +50,6 @@ Here are some ideas to get you started:
 # Sources
 ## 깃허브 꾸미기
   * 이모티콘 : https://www.webfx.com/tools/emoji-cheat-sheet/
-  * 뱃지 : https://github.com/Ileriayo/markdown-badges
+  * 뱃지
+    - 만들어진 뱃지 : https://github.com/Ileriayo/markdown-badges
+    - 뱃지 만들기 : https://shields.io/
