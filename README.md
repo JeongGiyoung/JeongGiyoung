@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# code size
+# <center> code size </center>
 ## Repositories
   * Learning ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning)
 
-# 📚 Stack
+# <center> 📚 Stack <center>
 
 ## :thought_balloon: Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-# :ledger: DataBase
+## :ledger: DataBase
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## :computer: ML/DL
