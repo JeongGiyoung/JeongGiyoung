@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # <div align="center">code size</div>
+
 ## Repositories
   * Learning ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning)
 
-# <center> 📚 Stack <center>
+# <div align="center">📚 Stack</div>
 
 ## :thought_balloon: Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
-# Sources
+# <div align="center">Sources</div>
 ## 깃허브 꾸미기
   * 이모티콘 : https://www.webfx.com/tools/emoji-cheat-sheet/
   * 뱃지
