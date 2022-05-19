@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # code size
 ## GitHub
-https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning)
 
 # 📚 Stack
 
