@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # <div align="center">code size</div>
 
 ## Repositories
-  * Learning ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning?color=orange&label=Learning)
+  * Learning [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning?color=orange&label=Learning)](https://youtu.be/w9DfC2BHGPA)
   * Projects ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Projects?color=blue&label=Projects)
 
 <br>
