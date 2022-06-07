@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## Repositories
   * Learning ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning)
+  * Projects https://img.shields.io/github/languages/code-size/JeongGiyoung/Projects
 
 <br>
 
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## :globe_with_meridians: Frameworks 
+## :globe_with_meridians: Web Frameworks 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 <br><br><br><br>
