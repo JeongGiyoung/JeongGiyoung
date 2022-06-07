@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Repositories
   * Learning ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning?color=orange&label=Learning)
-  * Projects ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Projects)
+  * Projects ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Projects?color=blue&label=Projects)
 
 <br>
 
