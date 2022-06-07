@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # <div align="center">code size</div>
 
 ## Repositories
-  * Learning [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning?color=orange&label=Learning)](https://youtu.be/w9DfC2BHGPA)
-  * Projects ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Projects?color=blue&label=Projects)
+  * Learning [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Learning?color=orange&label=Learning)](https://github.com/JeongGiyoung/Learning)
+  * Projects [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JeongGiyoung/Projects?color=blue&label=Projects)](https://github.com/JeongGiyoung/Projects)
 
 <br>
 
@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 # <div align="center">Sources</div>
 ## 깃허브 꾸미기
+  * 기본 : https://youtu.be/w9DfC2BHGPA
   * 이모티콘 : https://www.webfx.com/tools/emoji-cheat-sheet/
   * 뱃지
     - 만들어진 뱃지 : https://github.com/Ileriayo/markdown-badges
