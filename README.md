@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 
 <br><br>
 
+## :thought_balloon: python 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+<br><br>
+
 ## :ledger: DataBase
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
