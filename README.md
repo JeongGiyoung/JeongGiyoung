@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <br><br><br><br>
 
-# <div align="center">Sources</div>
+# <div align="center">Sources, Attriubutes</div>
 ## 깃허브 꾸미기
   * 기본 : https://youtu.be/w9DfC2BHGPA
   * 이모티콘 : https://www.webfx.com/tools/emoji-cheat-sheet/
