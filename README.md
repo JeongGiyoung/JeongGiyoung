@@ -27,14 +27,15 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## <div align="center"> :thought_balloon: Languages </div>
+## <div align="center"> :thought_balloon: Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</div>
 
 <br><br>
 
-## <div align="center"> :thought_balloon: python </div>
+## <div align="center"> :thought_balloon: python 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### :computer: ML/DL
@@ -48,35 +49,42 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+</div>
+
 <br><br>
 
-## <div align="center"> :ledger: DataBase </div>
+## <div align="center"> :ledger: DataBase
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
 <br><br>
 
-## <div align="center"> :art: Design </div>
+## <div align="center"> :art: Design 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
 <br><br>
 
-## <div align="center"> :musical_note: Audio </div>
+## <div align="center"> :musical_note: Audio 
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+</div>
 
 <br><br>
 
-## <div align="center"> :video_camera: Video </div>
+## <div align="center"> :video_camera: Video 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+</div>
 
 
 <br><br>
 
-## <div align="center"> :page_with_curl: Office </div>
+## <div align="center"> :page_with_curl: Office 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+</div>
 
 <br><br>
 
